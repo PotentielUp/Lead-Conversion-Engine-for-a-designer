@@ -1,6 +1,3 @@
-# Lead-Conversion-Engine-for-a-designer
-Gere le processus d'intégration de gestion et des relances des clients d'un designer
-
 # Lead-Converison-Engine
 Système d'automatisation de leads et CRM personnalisé pour designers.
 
