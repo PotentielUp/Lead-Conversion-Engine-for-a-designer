@@ -50,6 +50,7 @@ Le système suit un flux logique et automatisé :
 ---
 
 ## 🚀 Impact & Résultats
+
 | Indicateur | Avant l'automatisation | Après l'automatisation |
 | :--- | :--- | :--- |
 | **Temps de saisie** | 15-30 min par prospect | **0 minute (Instantané)** |
@@ -67,5 +68,4 @@ Le système suit un flux logique et automatisé :
 ## 📩 Vous voulez un système similaire ?
 Si vous perdez du temps avec des tâches répétitives et que vous souhaitez optimiser votre acquisition client, contactez-moi :
 - **Email :** [efficiencypot@gmail.com]
-
-[![Retour vers la page principale](https://img.shields.io/badge/Page principale style=for-the-badge)](  https://potentielup.github.io/PotentielUp-Automation/) 
+ 
