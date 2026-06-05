@@ -67,7 +67,7 @@ Le système suit un flux logique et automatisé :
 
 ## 🖼️ Aperçu du Dash board
 
-'![Workflow Diagram](imagees/DashBoard.png)'
+'![Workflow Diagram](imagees/DashBoard.PNG)'
 ---
 
 ## 📩 Vous voulez un système similaire ?
