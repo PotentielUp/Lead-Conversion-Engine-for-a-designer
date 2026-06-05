@@ -62,7 +62,7 @@ Le système suit un flux logique et automatisé :
 
 ## 🖼️ Aperçu du Workflow
 
-'![Workflow Diagram](imagees/workflowUp.png)'
+'![Workflow Diagram](imagees/workfloUp.png)'
 ---
 
 ## 🖼️ Aperçu du Dash board
