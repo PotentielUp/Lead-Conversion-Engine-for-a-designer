@@ -76,5 +76,6 @@ Le système suit un flux logique et automatisé :
 
 ## 📩 Vous voulez un système similaire ?
 Si vous perdez du temps avec des tâches répétitives et que vous souhaitez optimiser votre acquisition client, contactez-moi :
-- **Email :** [efficiencypot@gmail.com]
+
+- **Calendly :** [Prenez rendez-vous](calendly.com/efficiencypot)
  
